@@ -1,0 +1,34 @@
+.column1{
+height: 700px;
+width: 100px;
+flex: 6px;
+background-color: aquamarine;
+
+}
+.column2{
+    height: 700px;
+    width: 50%;
+    flex: 6px;
+    background-color:white;
+    
+    
+}
+.row{
+    height: 200px;
+    width: 100%;
+    flex: 6px;
+    background-color: white;
+    
+
+}
+.container{display: flex;
+    align-items: center;
+
+}
+.navbar h1{
+    text-align: right;
+
+}
+    
+
+    
